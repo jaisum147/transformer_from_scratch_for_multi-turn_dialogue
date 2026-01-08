@@ -62,8 +62,7 @@ Setup Instructions
      pip install -r requirements.txt
 
 
-3.Run the program:
-     python main.py
+3.Run the program
 
 ****Usage Notes****
 
